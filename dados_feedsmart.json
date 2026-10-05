@@ -1,0 +1,87 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Eduardo Guzeli",
+            "idade": 18,
+            "profissao": "Engenheiro",
+            "tipo_usuario": "Estudante"
+        },
+        {
+            "id": 2,
+            "nome": "Gabriel Kenzo",
+            "idade": 20,
+            "profissao": "Mecanico",
+            "tipo_usuario": "Gerente de oficina"
+        },
+        {
+            "id": 3,
+            "nome": "Neymar",
+            "idade": 35,
+            "profissao": "Jogador de Futebol",
+            "tipo_usuario": "Funcionario de um clube"
+        },
+        {
+            "id": 4,
+            "nome": "Lucas Santos",
+            "idade": 67,
+            "profissao": "Pedreiro ",
+            "tipo_usuario": "Especialista em laje"
+        },
+        {
+            "id": 5,
+            "nome": "Octavio Mello",
+            "idade": 19,
+            "profissao": "Advogado",
+            "tipo_usuario": "Dono de cartório"
+        },
+        {
+            "id": 6,
+            "nome": "Lorenzo",
+            "idade": 34,
+            "profissao": "Médico",
+            "tipo_usuario": "Ortopedista"
+        },
+        {
+            "id": 7,
+            "nome": "Sofia",
+            "idade": 20,
+            "profissao": "Vendedora",
+            "tipo_usuario": "Lojista"
+        }
+    ],
+    "feedbacks": [
+        {
+            "id_usuario": 4,
+            "nome_usuario": "Lucas Santos",
+            "produto": "Cimento ",
+            "data": "05/10/2026",
+            "nota": 10.0,
+            "texto": "Cimento de ótima qualidade e muito bom"
+        },
+        {
+            "id_usuario": 1,
+            "nome_usuario": "Eduardo Guzeli",
+            "produto": "notebook",
+            "data": "05/10/2206",
+            "nota": 7.0,
+            "texto": "Tela do notebook pequena e teclado não vai as vezes"
+        },
+        {
+            "id_usuario": 2,
+            "nome_usuario": "Gabriel Kenzo",
+            "produto": "Filtro do carro ",
+            "data": "10/03/2024",
+            "nota": 4.0,
+            "texto": "Prazo de entrega muito demorado e falta de comunicação com o cliente "
+        },
+        {
+            "id_usuario": 3,
+            "nome_usuario": "Neymar",
+            "produto": "Chuteira",
+            "data": "20/05/2025",
+            "nota": 3.0,
+            "texto": "Cravo da chuteira muito pequeno e material ruim, não recomendo."
+        }
+    ]
+}

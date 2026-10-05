@@ -1,0 +1,13 @@
+USUARIOS
+1|Eduardo Guzeli|18|Engenheiro|Estudante
+2|Gabriel Kenzo|20|Mecanico|Gerente de oficina
+3|Neymar|35|Jogador de Futebol|Funcionario de um clube
+4|Lucas Santos|67|Pedreiro |Especialista em laje
+5|Octavio Mello|19|Advogado|Dono de cartório
+6|Lorenzo|34|Médico|Ortopedista
+7|Sofia|20|Vendedora|Lojista
+FEEDBACKS
+4|Lucas Santos|Cimento |05/10/2026|10.0|Cimento de ótima qualidade e muito bom
+1|Eduardo Guzeli|notebook|05/10/2206|7.0|Tela do notebook pequena e teclado não vai as vezes
+2|Gabriel Kenzo|Filtro do carro |10/03/2024|4.0|Prazo de entrega muito demorado e falta de comunicação com o cliente 
+3|Neymar|Chuteira|20/05/2025|3.0|Cravo da chuteira muito pequeno e material ruim, não recomendo.
